@@ -1,0 +1,76 @@
+h1 {
+    color: pink;
+}
+
+body{
+    background-color: black;
+}
+
+.background404-class{
+    background: url("/images/bg104.gif");
+    height: 100%;
+    width: 100%;
+    background-repeat: repeat;
+    background-attachment: fixed;
+
+}
+.backgroundIndex-class{
+    background: url("/images/LainLove.gif");
+    height: 100%;
+    width: 100%;
+    background-repeat: repeat;
+    background-attachment: fixed;
+    text-align: center;
+}
+
+.text-color{
+    color: black !important;
+    background-color: pink !important;
+    display: table;
+    
+}
+
+.textHelpMessage{
+    color: #d4559c !important;
+    background-color: pink !important;
+    display: table;
+    
+}
+
+.center-items{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.flex-row{
+    display: flex;
+    flex-direction: row;
+    align-self: center;
+    justify-content: center;
+}
+
+.link-color{
+    color: black !important;
+    background-color: pink !important;
+    display: table;
+    margin-right: 10px;
+
+}
+
+.indexP-color{
+    color: black !important;
+    background-color: pink !important;
+    display: table;
+}
+
+input{
+ border: 1px solid pink;
+ padding:8px;
+}
+
+button{
+    cursor: pointer;
+    border:1px solid pink;
+    background: pink;
+    color: black;
+}
